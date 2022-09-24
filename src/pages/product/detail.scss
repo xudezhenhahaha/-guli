@@ -1,0 +1,17 @@
+.product-detail{
+    .ant-list-item{
+        justify-content: flex-start;
+    }
+
+    .product-img{
+        width:150px;
+        height:150px;
+        border:1px solid #ddd;
+        margin-right:10px;
+    }
+    .left{
+        font-size:20px;
+        font-weight: bold;
+        margin-right:15px;
+    }
+}

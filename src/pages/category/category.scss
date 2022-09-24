@@ -1,0 +1,18 @@
+.category{
+    width:100%;
+    .ant-btn{
+        &.ant-btn-background-ghost{
+            color:#1DA57A;
+        }
+    }
+    .ant-card-head-title{
+        .ant-btn{
+            border:none;
+            font-size: 16px;
+            color:#1DA57A;
+        } 
+    }
+    .ant-select{
+        width:100%;
+    }
+}
